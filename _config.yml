@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://fxysunshine.github.io/
+url: https://fxysunshine.github.io
 date_format: "ordinal"
 title: 码小农
 subtitle: "还在写代码的程序员"
@@ -81,17 +81,17 @@ navs:
 #     href: /open-source/
 #     label: 开源
 
-  -
-    href: /wiki/
-    label: 维基
+    #  -
+    #    href: /wiki/
+    #    label: 维基
 
-  -
-    href: /links/
-    label: 链接
+    #  -
+    #    href: /links/
+    #    label: 链接
 
-  -
-    href: /about/
-    label: 关于
+    #  -
+    #    href: /about/
+    #    label: 关于
 
 # ---------------- #
 #       RSS        #
